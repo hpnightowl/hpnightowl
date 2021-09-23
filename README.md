@@ -3,7 +3,7 @@
 Joined Github **2** years ago.
 
 - Created 14 issues
-- Submitted 86 Pull Requests
+- Submitted 85 Pull Requests
 - Contributions Across github 657  
 
 Playing with 
