@@ -3,8 +3,8 @@
 Joined Github **2** years ago.
 
 - Created 14 issues
-- Submitted 85 Pull Requests
-- Contributions Across github 817  
+- Submitted 86 Pull Requests
+- Contributions Across github 822  
 
 Playing with 
 - ![C](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23555555&message=C%EF%B8%B191.7%25)
