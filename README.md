@@ -1,6 +1,6 @@
 ### Hi! there 👋
 
-Joined Github **2** years ago.
+Joined Github **3** years ago.
 
 - Created 14 issues
 - Submitted 87 Pull Requests
