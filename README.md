@@ -7,7 +7,7 @@ Joined Github **4** years ago.
 - Contributions Across github 1185  
 
 Playing with 
-- ![C](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23555555&message=C%EF%B8%B191.9%25)
+- ![C](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23555555&message=C%EF%B8%B191.8%25)
 ![Smali](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Smali%EF%B8%B11.6%25)
 ![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B11.6%25)
 ![Assembly](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%236E4C13&message=Assembly%EF%B8%B11.4%25)
