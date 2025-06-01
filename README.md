@@ -1,10 +1,10 @@
 ### Hi! there 👋
 
-Joined Github **4** years ago.
+Joined Github **6** years ago.
 
-- Created 19 issues
-- Submitted 90 Pull Requests
-- Contributions Across github 1184  
+- Created 22 issues
+- Submitted 85 Pull Requests
+- Contributions Across github 1712  
 
 Playing with 
 - ![C](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23555555&message=C%EF%B8%B191.8%25)
